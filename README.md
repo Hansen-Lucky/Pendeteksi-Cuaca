@@ -1,7 +1,3 @@
-Berikut adalah README yang sesuai berdasarkan dokumentasi proyek **Website Pendeteksi Cuaca** milikmu, dengan gaya dan struktur yang mirip dengan README perpustakaan digital tadi:
-
----
-
 # ☁️ Website Pendeteksi Cuaca
 
 Website ini merupakan aplikasi cuaca real-time berbasis ReactJS yang memanfaatkan API dari OpenWeatherMap. Pengguna cukup mengetikkan nama kota, dan informasi cuaca terkini akan ditampilkan secara informatif, estetis, dan responsif.
