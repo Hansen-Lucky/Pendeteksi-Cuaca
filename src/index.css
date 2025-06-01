@@ -1,0 +1,31 @@
+
+.info-box {
+  background-color: rgba(0, 0, 0, 0.7);
+  padding: 1rem 1.5rem;
+  border-radius: 12px;
+  min-width: 120px;
+  color: white;
+  text-align: center;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+input::placeholder {
+  color: #333;
+  opacity: 0.7;
+}
+
+.modal {
+  transition: opacity 0.3s ease;
+}
+.modal.fade.show {
+  display: block;
+}
+.modal-backdrop {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
